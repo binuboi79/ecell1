@@ -1,0 +1,79 @@
+.heading{
+         background-image : linear-gradient(Maroon,HotPink); ;
+         font-family : Georgia ;
+         font-size : 500% ;
+         text-align : center;
+         color : white ;
+        }
+
+.subheading{
+            font-family : Courier;
+            color : Blue;
+            font-size : 400%;
+           }
+
+
+.img{
+      border-style: groove;
+      border-radius: 4px;
+      margin-right:20px;
+      padding : 1px;
+      float : left;
+      display : block;
+    }
+
+.labeli{
+       background-image : linear-gradient(DarkGreen,LimeGreen);
+       border-radius : 3px;
+       width : 1000px;
+       font-family : Verdana;
+       font-size : 120%;
+       color : white;
+       paddding: 5px 5px 5px 5px;
+      }
+
+.label{
+       background-image : linear-gradient(DarkBlue,DodgerBlue);
+       border-radius : 3px;
+       width : 1000px;
+       font-family : Verdana;
+       font-size : 150%;
+       color : white;
+       paddding: 5px 5px 5px 5px;
+      }
+
+.generali{
+          font-family : Verdana;
+          font-size : 120%;
+          color : black;
+        }
+
+.general{
+          font-family : Verdana;
+          font-size : 150%;
+          color : black;
+        }
+
+a : link{
+          font-family : Verdana;
+          font-size : 150%;
+          color : DarkGreen;
+        }
+
+a : visited{
+          font-family : Verdana;
+          font-size : 150%;
+          color : Violet;
+        }
+
+a : hovering{
+          font-family : Verdana;
+          font-size : 150%;
+          color : Blue;
+        }
+
+a : active{
+          font-family : Verdana;
+          font-size : 150%;
+          color : Red;
+        }
